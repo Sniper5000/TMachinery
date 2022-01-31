@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Transmutation-Machinery-1.16.5 T0.0.1
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2022-01-30T21:37:17-0600
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
