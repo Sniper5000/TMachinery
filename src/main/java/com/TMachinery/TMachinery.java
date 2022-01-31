@@ -1,4 +1,4 @@
-
+@Mod("tmachinery")
 class TMachinery {
 
 }
